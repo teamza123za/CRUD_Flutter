@@ -1,4 +1,1 @@
-# login
-
-A new Flutter project.
-"# crudflutter" 
+CRUD-Flutter เป็น mini Project สำหรับการเรียนรู้ Futter พื้นฐาน
